@@ -1,0 +1,36 @@
+Fire,20(23)
+Grass,20(23)
+Fight,23
+Water,23(26)
+Fly,26
+Ghost,26
+Dark,26
+Psychic,33(35)
+Fairy,12(23)
+Poison,8(10)
+Ice,8(12)
+Rock,8(15)
+Steel,16(23)
+Ground,15
+Electric,16(21)
+Bug,13(15)
+Normal,8(10)
+
+PL,57/30/75
+167/197
+total Psychics,115/131
+
+1.Xerneas(fairy-13),2.Silvally(normal-9),3.Melmetal(steel-17),4.Registeel(steel-18),5.Regirock(rock-9),6.Phione(water-24),[Unown(Psudeo-legend)],7.Tapu Fini(water-25/fairy-14),[Sigilyph,Confragigus,Banette],8.Aurorus(rock-10/ice-9/fairy-15),9.Tapu Bulu[Grass-21/Fairy-16],10.Ninetails[ice-10/fire-21/fairy-17],11.Tapu Koko[electric-17/fairy-18],12.Nihilego[rock-11/poison-9],13.Porygon[normal-10/rock-12],14.Xurkitree[electric-18/poison-10]
+
+
+15.Dedenne[electric-19/fairy-19],16.Klefki[steel-19/fairy-20],17.Mawile[steel-20/fairy-21],18.Primarina[water-26(D)/fairy-22],{Drapion[bug-13]},19.Scolipede[bug-14/poison-11],20.Salazzle[fire-23(D)/poison-12(D)],21.Armaldo[bug-15(D)/rock-13],22.Kartana[grass-22/steel-21/electric-20],23.Solrock[psychic-34/rock-14],24.Aggron[steel-22/rock-15(D)],25.Electrod[psychic-35/electric-21],26.Audino[Normal-10/Fairy-23(D)],27.Plusle[electric-22/fire-23(D)],28.Avalugge[ice-11/steel-23(D)],29.Pachirisu[electric-23/ice-12(D)],30.Ambipom[grass-23(D)/normal-12(D)]
+
+Kanto,33(1),Hariyama,Ambipom,Avalugge
+Orange,15(49)
+Johto,29(75),Mawile,Registeel,Pachirisu,Scolipede,Klefki,Melmetal,Primarina
+Hoenn,29(101),Phione,Oricorio,Audino,Ninetails,Kartana,Dedenne
+Kanto Frontier,15(116),Electrod,Salazzle,Plusle
+Sinnoh,26(142),Tapu Fini,Tapu Bulu,Xurkitree,Tapu Koko,Xerneas,Silvally
+Unova,23(168),Haxorus,Altaria,Raikou
+UC,3(171)
+Kalos,23(197),Regirock,Solrock,Armaldo,Aggron,Aurorus,Nihilego,Porygon
